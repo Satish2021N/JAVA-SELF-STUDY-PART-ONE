@@ -5,6 +5,9 @@ public class SystemOutPrintln {
         System.out.println("S");
         System.out.print("A");
         System.out.print("B");
-        System.out.print("C");
+        System.out.println("C");
+        System.out.print("Hello My name is\n");
+        System.out.println("ABC");
+        System.out.println("Lionel\nAndres\nMessi");
     }
 }
